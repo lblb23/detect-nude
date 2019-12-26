@@ -1,0 +1,5 @@
+# use model for 2 classes or 3 classes
+class_mode: '2classes'
+
+# path to model
+path_to_trained_model: 'models/weights_2classes.hdf5' # or weights_3classes.hdf5
