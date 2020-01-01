@@ -26,7 +26,7 @@ If you need the dataset please send to me message on buliginleo @ yandex.ru
 
 | Class_mode  | Accuracy |
 | ------------- | ------------- |
-| 2 classes (erotic_and porn, legal)  | 0.8946  |
+| 2 classes (erotic_and_porn, legal)  | 0.8946  |
 | 3 classes (erotic, porn, legal) | 0.7300 |
 
 ### Classes:
