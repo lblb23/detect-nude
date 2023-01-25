@@ -1,4 +1,4 @@
-# detect-porn
+# detect-nude
 Draft project for nudity detection with simple convolutional neural network in Keras
 
 ## Getting Started
