@@ -18,10 +18,6 @@ python eval.py
 python train.py
 ```
 
-## Dataset
-
-If you need the dataset please send to me message on buliginleo @ yandex.ru
-
 ### Results:
 
 | Class_mode  | Accuracy |
